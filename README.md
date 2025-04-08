@@ -1,2 +1,2 @@
 # hoon_resume
-'./Ezen_web.html
+'./Ezen_web.html'
